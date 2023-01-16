@@ -2,8 +2,6 @@
 
 ## **🙋‍♂️ About Me**
 
-<br />
-
 ### **Hey 👋! Its Mubeen**
 
 <p>
