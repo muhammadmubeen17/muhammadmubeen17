@@ -85,7 +85,7 @@
 <table width="100%" align="center" >
   <tr>
     <td>
-      <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=muhammadmubeen17&show_icons=true&cache_seconds=86400&theme=shadow_red" /></p>
+      <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=muhammadmubeen17&show_icons=true&cache_seconds=86400&theme=buefy" /></p>
     </td>
   </tr>
   <tr>
