@@ -85,12 +85,7 @@
 <table width="100%" align="center" >
   <tr>
     <td>
-      <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=muhammadmubeen17&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" /></p>
-    </td>
-  </tr>
-    <tr>
-    <td>
-     [default]: https://github-readme-stats.vercel.app/api?username=muhammadmubeen17&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
+      <p align="center"><img width="100%" src=" https://github-readme-stats.vercel.app/api?username=muhammadmubeen17&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default" /></p>
     </td>
   </tr>
   <tr>
