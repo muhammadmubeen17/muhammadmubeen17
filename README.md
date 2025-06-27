@@ -20,32 +20,6 @@
 <br />
 <hr>
 </br>
-
-<table width="100%" >
-  <tr>
-    <td width="60%">
-
-- Proficient in HTML, CSS, JavaScript, and jQuery
-- Experienced with responsive web design
-- Skilled in creating cross-browser compatible websites
-- Knowledgeable in Bootstrap, Tailwind and other front-end frameworks
-- Experienced in developing sites using content management systems (CMS)
-- Proficient in using version control systems such as Git
-- Experienced in debugging and testing websites
-- Skilled in creating RESTful web services and APIs
-- Knowledgeable in SQL and database design
-- Proficient in creating mobile-friendly websites
-
-    </td>
-    <td width="40%">
-      <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" align="center" />
-    </td>
-  </tr>
-</table>
-
-<br />
-<hr>
-</br>
      
 ## **🛠️ Skills**
 
