@@ -13,9 +13,6 @@
     My main goal is to fully understand the challenges and requirements and bring them to real life.
   </i>
 </p>
-<div>
-  <a href="https://www.buymeacoffee.com/mubeenahmad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="width: 150px !important;" ></a>
-</div>
 
 <br />
 <hr>
