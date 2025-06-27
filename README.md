@@ -2,11 +2,11 @@
 
 ## **🙋‍♂️ About Me**
 
-### **Hey 👋! Its Mubeen**
+### **Hey👋! Great to have you here.**
 
 <p>
   <i>
-    I'm a Full-stack Web Developer with experience in creating and maintaining responsive websites, and using modern libraries and frameworks to implement innovative web solutions. I have been Performing as a Web developer for over 5+ years and am still in the process of gaining more experience over more years. 
+    I'm Mubeen Ahmad — a passionate Full Stack Web Developer with over 6+ years of experience turning ideas into powerful, user-friendly digital solutions. From sleek front-end designs to scalable back-end architectures, I specialize in crafting modern, responsive, and performance-driven web applications that solve real-world problems.
   </i>
 
   <i>
