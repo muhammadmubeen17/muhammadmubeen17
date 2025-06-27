@@ -37,13 +37,6 @@
 ![MongoDB](https://img.shields.io/static/v1?style=flat&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)&nbsp;
 ![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)&nbsp;
 
-**Visitors Count**
-
-<p>
-  <img src="https://profile-counter.glitch.me/{muhammadmubeen17}/count.svg" />
-</p> 
-
-</div>
 
 <div align="center">
 
@@ -55,6 +48,7 @@
 <a href= "mailto:mubeenahmad1920@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23ffff?style=for-the-badge&logo=gmail&logoColor=141414" target="_blank"></a>
 <a href="https://www.linkedin.com/in/muhammad-mubeen-ahmad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23ffff?style=for-the-badge&logo=linkedin&logoColor=141414" target="_blank"></a>
 
+</div>
 
 <div align="center">
 
