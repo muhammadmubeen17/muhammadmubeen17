@@ -38,9 +38,7 @@
 ![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)&nbsp;
 
 
-<div align="center">
-
-**📫 Connnect with Me**
+## **📫 Connnect with Me**
 
 <br/>
 
@@ -48,11 +46,8 @@
 <a href= "mailto:mubeenahmad1920@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23ffff?style=for-the-badge&logo=gmail&logoColor=141414" target="_blank"></a>
 <a href="https://www.linkedin.com/in/muhammad-mubeen-ahmad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23ffff?style=for-the-badge&logo=linkedin&logoColor=141414" target="_blank"></a>
 
-</div>
 
-<div align="center">
-
-**😊 Support**
+## **😊 Support**
 
 <a href="https://www.buymeacoffee.com/mubeenahmad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
