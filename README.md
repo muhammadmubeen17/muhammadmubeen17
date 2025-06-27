@@ -1,8 +1,4 @@
-# **Welcome to my Github Profile**
-
-## **🙋‍♂️ About Me**
-
-### **Hey👋! Great to have you here.**
+# **Hey👋! Great to have you here.**
 
 <p>
   <i>
