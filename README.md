@@ -78,32 +78,6 @@
 <hr>
 </br>
 
-## **📜 Stats**
-
-<br />
-
-<table width="100%" align="center" >
-  <tr>
-    <td>
-      <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=muhammadmubeen17&show_icons=true&cache_seconds=86400&theme=buefy" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmubeen17"/></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmubeen17&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" /></p>
-    </td>
-  </tr>
-</table>
-
-<br />
-<hr>
-</br>
-
 <div align="center">
 
 **Visitors Count**
